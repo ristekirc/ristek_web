@@ -24,11 +24,11 @@ var Activities = function (_React$Component) {
                 title: 'Kumpulbagi',
                 text: 'Merupakan suatu kegiatan untuk mengumpulkan seluruh member IRC dalam suatu forum diskusi. Dan juga sebagai sarana menyampaikan pendapat dan musyawarah yang berkaitan dengan IRC..'
             }, {
-                img: 'assets/img/workshop.JPG',
+                img: 'assets/img/workshop1.jpg',
                 title: 'Workshop',
                 text: 'Kegiatan pelatihan untuk mahasiswa di bidang teknologi.'
             }, {
-                img: 'assets/img/italk.JPG',
+                img: 'assets/img/italk2.jpg',
                 title: 'I-Talk',
                 text: 'Merupakan suatu kegiatan untuk seluruh mahasiswa yang berada di Fakultas Teknologi Industri dan Informatika (FTII) Institut Teknologi Telkom Purwokerto untuk ikut serta dalam talk show yang berhubungan dengan dunia IT.'
             }],
