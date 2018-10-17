@@ -29,7 +29,7 @@ var Activities = function (_React$Component) {
                 text: 'Kegiatan pelatihan untuk mahasiswa di bidang teknologi.'
             }, {
                 img: 'italke.png',
-                title: 'I-Talk',
+                title: 'PKM',
                 text: 'Merupakan suatu kegiatan untuk seluruh mahasiswa yang berada di Fakultas Teknologi Industri dan Informatika (FTII) Institut Teknologi Telkom Purwokerto untuk ikut serta dalam talk show yang berhubungan dengan dunia IT.'
             }],
             current: 0
